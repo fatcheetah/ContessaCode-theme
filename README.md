@@ -16,8 +16,8 @@ Cosy version of Dark+ with protanopia feel.
 
 --- 
 
-[Font used - Maple-Font](https://github.com/subframe7536/Maple-font)
-
+Font used in examples - [Maple-Font](https://github.com/subframe7536/Maple-font)
+<br>
 [https://github.com/fatcheetah/ContessaCode-theme](https://github.com/fatcheetah/ContessaCode-theme)
 <br>
 Theme created using the base of (https://github.com/tcd/dark-plus-syntax) due to it's additional syntax highliting.
