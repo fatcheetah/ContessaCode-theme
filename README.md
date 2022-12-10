@@ -6,13 +6,13 @@ Cosy version of Dark+ with protanopia feel.
 ## Examples
 
 + C#
-![c-sharp example](examples/c-sharp.png)
+![c-sharp example](https://github.com/fatcheetah/ContessaCode-theme/blob/master/examples/c-sharp.png)
 
 + JS
-![js example](examples/js.png)
+![js example](https://github.com/fatcheetah/ContessaCode-theme/blob/master/examples/js.png)
 
 + Python
-![python example](examples/python.png)
+![python example](https://github.com/fatcheetah/ContessaCode-theme/blob/master/examples/python.png)
 
 --- 
 
