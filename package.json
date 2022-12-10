@@ -1,0 +1,32 @@
+{
+  "name": "contessacode-theme",
+  "displayName": "ContessaCode Theme",
+  "description": "Dark+ but with a cosy protanopia feel",
+  "publisher": "thefatCheetah",
+  "version": "0.1.0",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.73.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fatcheetah/ContessaCode-theme"
+},
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon/icon.png",
+  "galleryBanner": {
+    "color": "#cd7a8a",
+    "theme": "dark"
+},
+  "contributes": {
+    "themes": [
+      {
+        "label": "ContessaCode",
+        "uiTheme": "vs-dark",
+        "path": "./themes/contessacode-color-theme.json"
+      }
+    ]
+  }
+}
