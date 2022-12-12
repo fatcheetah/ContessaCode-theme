@@ -11,7 +11,7 @@
         "editor.selectionBackground": "#264f78",
         "editor.inactiveSelectionBackground": "#3a3d41",
         "editorIndentGuide.activeBackground": "#707070",
-        "editorIndentGuide.background": "#404040",
+        "editorIndentGuide.background": "#808080",
         "activityBarBadge.background": "#7796df",
         "sideBarTitle.foreground": "#bbbbbb",
         "minimap.selectionOccurrenceHighlight": "#7796df",
@@ -72,7 +72,7 @@
                 "comment.block.handlebars"
             ],
             "settings": {
-                "foreground": "#555053"
+                "foreground": "#808080"
             }
         },
         {
@@ -87,7 +87,7 @@
                 "comment.line.number-sign.yaml"
             ],
             "settings": {
-                "foreground": "#a5c47c"
+                "foreground": "#7796df"
             },
             "name": "Special Comments"
         },
@@ -110,7 +110,7 @@
                 "punctuation.terminator"
             ],
             "settings": {
-                "foreground": "#404040"
+                "foreground": "#808080"
             }
         },
         {
@@ -817,7 +817,7 @@
                 "punctuation.terminator.rule.scss"
             ],
             "settings": {
-                "foreground": "#404040"
+                "foreground": "#808080"
             }
         },
         {
@@ -1053,7 +1053,7 @@
                 "punctuation.terminator.statement.c"
             ],
             "settings": {
-                "foreground": "#555053"
+                "foreground": "#d4d4d4"
             }
         },
         {
@@ -1132,7 +1132,7 @@
                 "comment.line.cfml"
             ],
             "settings": {
-                "foreground": "#a5c47c"
+                "foreground": "#808080"
             }
         },
         {
@@ -1284,7 +1284,7 @@
                 "meta.comment.razor keyword.control.cshtml.transition"
             ],
             "settings": {
-                "foreground": "#a5c47c"
+                "foreground": "#7796df"
             }
         },
         {
@@ -1306,14 +1306,21 @@
         },
         {
             "scope": [
-                "entity.name.tag.localname.cs",
-                "punctuation.definition.tag.cs",
                 "punctuation.terminator.statement.cs",
+            ],
+            "settings": {
+                "foreground": "#d4d4d4"
+            }
+        },
+        {
+            "scope": [
+                "punctuation.definition.tag.cs",
+                "entity.name.tag.localname.cs",
                 "source.cs comment.block.documentation.cs punctuation.definition.comment.cs",
                 "source.cs comment.block.documentation.cs meta.tag.cs punctuation.separator.equals.cs"
             ],
             "settings": {
-                "foreground": "#555053"
+                "foreground": "#808080"
             }
         },
         {
@@ -1620,7 +1627,7 @@
                 "comment.line.double-dash.elm"
             ],
             "settings": {
-                "foreground": "#555053"
+                "foreground": "#808080"
             }
         },
         {
@@ -2100,7 +2107,7 @@
                 "comment.block.documentation.js punctuation.definition.comment.js"
             ],
             "settings": {
-                "foreground": "#a5c47c"
+                "foreground": "#7796df"
             }
         },
         {
@@ -2113,7 +2120,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#a5c47c"
+                "foreground": "#7796df"
             }
         },
         {
@@ -2122,7 +2129,7 @@
                 "meta.embedded.expression.js source.js.jsx comment.block.js"
             ],
             "settings": {
-                "foreground": "#555053"
+                "foreground": "#808080"
             }
         },
         {
@@ -2133,7 +2140,7 @@
                 "punctuation.terminator.statement.tsx"
             ],
             "settings": {
-                "foreground": "#404040"
+                "foreground": "#d4d4d4"
             }
         },
         {
@@ -2392,7 +2399,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#a5c47c"
+                "foreground": "#808080"
             }
         },
         {
@@ -2400,7 +2407,7 @@
                 "comment.block.documentation.ts"
             ],
             "settings": {
-                "foreground": "#a5c47c"
+                "foreground": "#7796df"
             }
         },
         {
@@ -2472,7 +2479,7 @@
                 "punctuation.separator.array.json"
             ],
             "settings": {
-                "foreground": "#404040"
+                "foreground": "#808080"
             }
         },
         {
@@ -2505,7 +2512,7 @@
                 "comment.line.7796df-sign.makefile"
             ],
             "settings": {
-                "foreground": "#a5c47c"
+                "foreground": "#808080"
             }
         },
         {
@@ -2688,7 +2695,7 @@
                 "meta.link.email.lt-gt.markdown"
             ],
             "settings": {
-                "foreground": "#404040"
+                "foreground": "#808080"
             }
         },
         {
@@ -2715,7 +2722,7 @@
                 "inline-dollars"
             ],
             "settings": {
-                "foreground": "#404040"
+                "foreground": "#808080"
             }
         },
         {
@@ -2734,7 +2741,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#404040"
+                "foreground": "#808080"
             }
         },
         {
@@ -2750,7 +2757,7 @@
                 "markup.strikethrough.markdown"
             ],
             "settings": {
-                "foreground": "#404040"
+                "foreground": "#808080"
             }
         },
         {
@@ -2835,7 +2842,7 @@
                 "string.quoted.docstring.multi.python keyword.control.flow.python"
             ],
             "settings": {
-                "foreground": "#a5c47c"
+                "foreground": "#7796df"
             }
         },
         {
@@ -3241,7 +3248,7 @@
                 "punctuation.semi.rust"
             ],
             "settings": {
-                "foreground": "#404040"
+                "foreground": "#808080"
             }
         },
         {
@@ -3250,7 +3257,7 @@
                 "comment.line.documentation.rust"
             ],
             "settings": {
-                "foreground": "#a5c47c"
+                "foreground": "#808080"
             }
         },
         {
@@ -3625,7 +3632,7 @@
                 "comment.line.number-sign.yaml"
             ],
             "settings": {
-                "foreground": "#555053"
+                "foreground": "#808080"
             }
         },
         {
