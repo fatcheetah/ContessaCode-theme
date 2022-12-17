@@ -2847,11 +2847,9 @@
         },
         {
             "scope": [
-                "variable.language.special.self.python",
                 "support.function.magic.python",
                 "support.variable.magic.python",
                 "storage.type.string.python",
-                "variable.parameter.function.language.special.self.python",
                 "meta.function.decorator.python support.type.python"
             ],
             "settings": {
@@ -2896,7 +2894,6 @@
                 "punctuation.section.function.begin.python",
                 "punctuation.section.class.begin.python",
                 "variable.language.special.self.python",
-                "variable.parameter.function.language.special.self.python",
                 "constant.character.format.placeholder.other.python",
                 "keyword.operator.unpacking.parameter.python",
                 "keyword.operator.unpacking.arguments.python"
@@ -2920,6 +2917,7 @@
         {
             "scope": [
                 "variable.parameter.function-call.python",
+                "variable.parameter.function.language.special.self.python",
                 "meta.structure.dictionary.key.python",
                 "meta.function-call.arguments.python",
                 "meta.function.parameters.python",
@@ -2932,7 +2930,6 @@
         },
         {
             "scope": [
-                "support.type.python",
                 "entity.name.type.class.python",
                 "punctuation.separator.annotation.python",
                 "punctuation.separator.annotation.result.python"
@@ -3330,7 +3327,7 @@
                 "meta.import.rust",
                 "meta.function.definition.rust keyword.operator.key-value.rust",
                 "keyword.operator.arrow.skinny.rust",
-                "punctuation.definition.lifetime.rust",
+                "punctuation.definition.lifetime.rust"
             ],
             "settings": {
                 "foreground": "#dd996e"
