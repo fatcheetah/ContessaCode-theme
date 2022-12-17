@@ -3325,11 +3325,12 @@
                 "punctuation.separator.type.rust",
                 "keyword.operator.return-type.rust",
                 "meta.type_params.rust",
+                "entity.name.namespace",
                 "entity.name.namespace.rust",
                 "meta.import.rust",
                 "meta.function.definition.rust keyword.operator.key-value.rust",
                 "keyword.operator.arrow.skinny.rust",
-                "punctuation.definition.lifetime.rust"
+                "punctuation.definition.lifetime.rust",
             ],
             "settings": {
                 "foreground": "#dd996e"
