@@ -26,6 +26,11 @@
         "label": "ContessaCode",
         "uiTheme": "vs-dark",
         "path": "./themes/contessacode-color-theme.json"
+      },
+      {
+        "label": "ContessaCode (Semantic)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/contessacode-color-theme-sem.json"
       }
     ]
   }
