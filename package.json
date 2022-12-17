@@ -3,7 +3,7 @@
   "displayName": "ContessaCode Theme",
   "description": "Dark+ but with a cosy protanopia feel",
   "publisher": "thefatCheetah",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "license": "MIT",
   "engines": {
     "vscode": "^1.73.1"
